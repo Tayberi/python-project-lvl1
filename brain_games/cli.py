@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+"""CLI function."""
 
 import prompt
 
